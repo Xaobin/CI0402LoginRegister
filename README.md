@@ -1,7 +1,8 @@
-<h1>CODE IGNITER 4 </h1>
+<h2>CODE IGNITER 4 </h2>
 <h2>LOGIN AND REGISTER</h2>
 <h3>LOGIN  E REGITRO DE USUÁRIOS</h3>
 
+**Códigos**
 <pre style="background-color:'#E7E9EB'; color:'#000000'">
 php composer create-project codeigniter4/apptarter cilogin
 php spark create:db ci4login
@@ -25,6 +26,3 @@ php spark migration
 <li>Make the Migration</li>
 <li>Mudar o ENV para .env e realizar as mudanças padrão do framework </li>
 <li>Make the default changes in the .env</li>
-
-
-  php spark migration
