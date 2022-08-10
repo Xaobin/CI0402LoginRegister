@@ -1,12 +1,19 @@
-CODE IGNITER 4 
-LOGIN AND REGISTER
-LOGIN  E REGITRO DE USUÁRIO
+#CODE IGNITER 4 
+#LOGIN AND REGISTER
+#LOGIN  E REGITRO DE USUÁRIOS
 
-.env  environment
-PHP composer.phar create-project codeigniter4/apptarter cilogin
+<pre style="background-color:'#E7E9EB'; color:'#000000'>
+php spark create:db ci4login
+php composer create-project codeigniter4/apptarter cilogin
+</pre>
 
+##Em .env  environment
+>Arquivo importante para a configuração
 
-Uso do spark
+##Uso do spark
+<pre style="background-color:'#E7E9EB'; color:'#000000'>
 php spark migration
-migration de usuários em add/database/migration
+</pre>
+>migration de usuários em **add/database/migration**
+
 
