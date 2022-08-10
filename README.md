@@ -26,3 +26,5 @@ php spark migration
 <li>Make the Migration</li>
 <li>Mudar o ENV para .env e realizar as mudanças padrão do framework </li>
 <li>Make the default changes in the .env</li>
+<li>Relizar as mudanças necessárias em app/config/app.php e database.php
+<li>Do the necessary changes in app/config/app.php and database.php
