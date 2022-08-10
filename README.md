@@ -19,7 +19,7 @@ php spark migration
 </pre>
 >migration de usuários em **add/database/migration**
 
-<h3>**Instalação:**</h3>
+<h3>Instalação</h3>
 <li>Substituir a pasta app original pela app disponível  </li>
 <li>Replace the original app with the available folder</li>
 <li>Realizar a migration </li>
