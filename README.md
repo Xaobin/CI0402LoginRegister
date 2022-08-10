@@ -2,9 +2,9 @@
 <h2>LOGIN AND REGISTER</h2>
 <h3>LOGIN  E REGITRO DE USUÁRIOS</h3>
 
-<pre style="background-color:'#E7E9EB'; color:'#000000'>
-php spark create:db ci4login
-php composer create-project codeigniter4/apptarter cilogin
+<pre style="background-color:'#E7E9EB'; color:'#000000'">
+>php spark create:db ci4login
+>php composer create-project codeigniter4/apptarter cilogin
 </pre>
 
 ##Em .env  environment
