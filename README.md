@@ -21,10 +21,12 @@ php spark migration
 
 <h3>Instalação</h3>
 <li>Substituir a pasta app original pela app disponível  </li>
-<li>Replace the original app with the available folder</li>
 <li>Realizar a migration </li>
-<li>Make the Migration</li>
 <li>Mudar o ENV para .env e realizar as mudanças padrão do framework </li>
-<li>Make the default changes in the .env</li>
 <li>Relizar as mudanças necessárias em app/config/app.php e database.php
+
+  **Installation**
+<li>Replace the original app with the available folder</li>
+<li>Make the Migration</li>
+<li>Make the default changes in the .env</li>
 <li>Do the necessary changes in app/config/app.php and database.php
