@@ -16,4 +16,8 @@ php spark migration
 </pre>
 >migration de usuários em **add/database/migration**
 
+##Instalação:
+--Colocar dentro da pasta app do sistema
+--Put in App in the System folder
+
 
