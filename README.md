@@ -10,7 +10,7 @@ php spark create:db ci4login
 **.env  environment**
 >Arquivo importante para a configuração
 >Important file to configuration
->>ENVIRONMENT = DEVELOPMENT
+>ENVIRONMENT = DEVELOPMENT
 
 ##**Uso do spark**
 <pre style="background-color:'#E7E9EB'; color:'#000000'">
@@ -19,11 +19,8 @@ php spark migration
 >migration de usuários em **add/database/migration**
 
 <h3>**Instalação:**</h3>
---Substituir a pasta app original pela app disponível
---Replace the original app with the available folder
---Realizar a migration
---Make the Migration
---Mudar o ENV para .env e realizar as mudanças padrão do framework
---Make the default changes in the .env
+1)Substituir a pasta app original pela app disponível - Replace the original app with the available folder
+2)Realizar a migration - Make the Migration
+3)Mudar o ENV para .env e realizar as mudanças padrão do framework - Make the default changes in the .env
 
 
