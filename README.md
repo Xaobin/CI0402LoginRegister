@@ -27,3 +27,4 @@ php spark migration
 <li>Make the default changes in the .env</li>
 
 
+  php spark migration
